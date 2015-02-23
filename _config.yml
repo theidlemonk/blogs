@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Idle Musings on technology, development with ruby and javascript, and cultural outlook towards 
   things in the world of development. Please feel free to to comment on these on github or email me directly.
   A tweet for rants is fine too.  
-baseurl: "/blogs/" # the subpath of your site, e.g. /blog/
+baseurl: "/blogs" # the subpath of your site, e.g. /blog/
 url: "http://theidlemonk.github.io" # the base hostname & protocol for your site
 twitter_username: theidlemonk
 github_username:  theidlemonk
