@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Git, Github and Beyond!
+subtitle: All about git and how github ties into the shindig.
+date:   2014-12-14
+categories: technical blog
+---
+
+Before we get into *Git* and *Github*, lets understand *Version Control* first. Version Control, like it reads helps controlling / organizing different versions of changes to a file or program in a chronological manner. This way it gives us the ability to pretty much 'go back in time' to see our changes, and correct mistakes at times. The utility that lets us achieve this is referred to as a Version Control System/ Software. Git is an example of such a system. 
+				
+				
+*Git* being a version control system, can track your changes and version them. So with the help of git, we can go back in time to look at the various changes we made to our files. *Git* after initialized (told to start tracking changes), keeps looking for changes to files in its scope. As it sees changes it oints it out to you so you can explicity tell it to track changes for the ones you need. 
+				
+				
+Lets talk about *Github*. Unlike *Git* which is actually on your local machine where the files are being modified, *Github* is on a server that can be accessed over the internet. *Github* lets us host ourr local git changes on to their server, so that other people can view it as well, or I can get to it from another system myself.
+				
