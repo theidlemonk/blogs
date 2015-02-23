@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Git, Github and Beyond!
-subtitle: All about git and how github ties into the shindig.
+subtitle: All about git and how github ties into this shindig.
 date:   2014-12-14
 categories: technical blog
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Class's and IDs - CSS Tips
-subtitle: Sharing my ![alt text](https://twemoji.maxcdn.com/36x36/1f4a1.png "eureka") moment about classes and IDs.
+subtitle: Sharing my <img src="https://twemoji.maxcdn.com/36x36/1f4a1.png"> moment about classes and IDs.
 date:   2015-01-04
 categories: technical blog
 ---
