@@ -30,7 +30,7 @@ Let me talk about the benefits of this technique.
 
 Now that we have tests passing, we can confidently refactor our written code and as long as the tests still pass its all good.
 
-This not only lets us keep our code light and clean. It would also lead to less bugs. And the next developer working on this has an expected set of requirements from your tests as well.
+This not only lets us keep our code light and clean. It would also lead to less bugs. And the next developer working on this has a set of requirements to refer to from your tests as well.
 
 Here is another video of a TDD kata by Jeff Morgan (Cheezy). This is a roman numeral kata performed by Cheezy in ruby. This video demonstrates the complete TDD process where he is trying to create a feature *roman to number converter*. <br>*Note: In this video Cheezy pretty much starts from an empty directory, setting up guard, with rspec for tests. Awesome watch if you're new to this.*
 
